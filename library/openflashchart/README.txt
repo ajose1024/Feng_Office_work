@@ -1,4 +1,4 @@
-﻿Open Flash Chart - PHP5 libraries. These help create data files for Open Flash Chart.
+Open Flash Chart - PHP5 libraries. These help create data files for Open Flash Chart.
 Copyright (C) 2007 
 
 This library is free software; you can redistribute it and/or

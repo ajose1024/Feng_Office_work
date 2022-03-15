@@ -2027,7 +2027,7 @@ class Net_IMAPProtocol
             $this->cmdCapability();
         }
         if ($this->_serverSupportedCapabilities != null) {
-            if (in_array($capability, $this->_serverSupportedCapabilities)) {
+            if (in_array($capability, $this->_serverSupportedCapabilities)) {
                 return true;
             }
         }
@@ -2325,7 +2325,7 @@ class Net_IMAPProtocol
     }
 
 
-
+
     /**
      * Parses the ARRDLIST as defined in RFC
      *
